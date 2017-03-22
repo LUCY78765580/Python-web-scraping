@@ -3,7 +3,7 @@
 __author__='WYY'
 __date__='2017.03.22'
 
-#实战小项目：pexels爬虫获取高清原图
+#实战小项目：爬取pexels网站获取高清原图（做成图片下载器）
 import re
 import os
 import requests
