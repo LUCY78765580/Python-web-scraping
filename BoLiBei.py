@@ -67,7 +67,5 @@ class Spider():
         container.sort(key=lambda k:k.get('like',0),reverse=True)
         for index,r in enumerate(container):
             print u'\n\n序号：',index+1, u'\n发言：',r['body'],u'\n点赞：' ,r['like'],u'评论',r['comment']
-            if r>100:
-                break
 spider=Spider()
 spider.getSort()
