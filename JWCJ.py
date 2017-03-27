@@ -15,7 +15,7 @@ Post=s.post(url='http://zhjw.scu.edu.cn/loginAction.do',data=formData)
 print Post.status_code
 #获取基本信息
 detailURL='http://zhjw.scu.edu.cn/gradeLnAllAction.do?type=ln&oper=qbinfo&lnxndm=2016-2017%D1%A7%C4%EA%C7%EF(%C1%BD%D1%A7%C6%DA)'
-html=requests.get(url=detailURL)
+html=s.get(url=detailURL)
 main=html.content.decode('gbk')
 soup=BeautifulSoup(main,'lxml')
 content=soup.find_all('td',align="center")
