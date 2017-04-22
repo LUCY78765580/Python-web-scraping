@@ -3,6 +3,7 @@
 __date__='2017.04.06'
 __author__='WYY'
 
+#实战小项目：爬取豆瓣有关张国荣的日记（并作数据分析)
 import requests
 import json
 import re
@@ -14,7 +15,6 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-#实战小项目：爬取豆瓣有关张国荣的日记（并作数据分析)
 class Tool():
     def replace(self,x):
         x=re.sub(re.compile('<br>|</br>|&nbsp;|<p>|</p>|<td>|</td>|<tr>|</tr>|</a>|<table>|</table>'), "", x)
