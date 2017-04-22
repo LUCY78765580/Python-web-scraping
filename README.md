@@ -1,6 +1,8 @@
-python爬虫实战日记
-本仓库记录一个小白零基础学习pyton爬虫，所有探索与尝试
-仓库地址：https://github.com/LUCY78765580/Python-web-scraping
+python爬虫实战日记</br>
+</br>
+本仓库记录一个小白零基础学习pyton爬虫，所有探索与尝试</br>
+仓库地址：https://github.com/LUCY78765580/Python-web-scraping</br>
+</br>
 </br>
 一、入门篇</br>
 糗事百科：https://github.com/LUCY78765580/Python-web-scraping/blob/master/QSBK.py</br>
@@ -12,8 +14,10 @@ info社区：https://github.com/LUCY78765580/Python-web-scraping/blob/master/BoL
 拉勾：https://github.com/LUCY78765580/Python-web-scraping/tree/master/LaGou</br>
 豆瓣：https://github.com/LUCY78765580/Python-web-scraping/tree/master/DouBan</br>
 </br>
+</br>
 二、进阶篇</br>
 待更</br>
+</br>
 </br>
 三、框架篇（Scrapy)</br>
 scrapy爬图片（一般方法）：https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua</br>
