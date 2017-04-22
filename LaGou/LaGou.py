@@ -27,6 +27,7 @@ class Spider():
                        'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; TheWorld)']
         index=random.randint(0, 9)
         user_agent=user_agents[index]
+        #cookie要自己抓
         headers={'User_agent':user_agent,
                  'cookie':'your cookies'}
         html=requests.get(url,headers=headers)
