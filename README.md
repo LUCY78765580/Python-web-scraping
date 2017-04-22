@@ -2,7 +2,7 @@
 </br>
 本仓库记录零基础学习python爬虫，所有探索与尝试</br>
 仓库地址：https://github.com/LUCY78765580/Python-web-scraping</br>
-(相应博客地址：https://zhuanlan.zhihu.com/Waking-up)
+(相应博客地址：https://zhuanlan.zhihu.com/Waking-up)</br>
 </br>
 **一、入门篇**</br>
 糗事百科：https://github.com/LUCY78765580/Python-web-scraping/blob/master/QSBK.py</br>
@@ -13,7 +13,6 @@ info社区：https://github.com/LUCY78765580/Python-web-scraping/blob/master/BoL
 教务网：https://github.com/LUCY78765580/Python-web-scraping/blob/master/JWCJ.py</br>
 拉勾：https://github.com/LUCY78765580/Python-web-scraping/tree/master/LaGou</br>
 豆瓣：https://github.com/LUCY78765580/Python-web-scraping/tree/master/DouBan</br>
-</br>
 </br>
 **二、进阶篇**</br>
 待更</br>
