@@ -1,7 +1,8 @@
 **python爬虫实战日记**</br>
 </br>
-本仓库记录一个小白零基础学习python爬虫，所有探索与尝试</br>
+本仓库记录零基础学习python爬虫，所有探索与尝试</br>
 仓库地址：https://github.com/LUCY78765580/Python-web-scraping</br>
+(相应博客地址：https://zhuanlan.zhihu.com/Waking-up)
 </br>
 **一、入门篇**</br>
 糗事百科：https://github.com/LUCY78765580/Python-web-scraping/blob/master/QSBK.py</br>
