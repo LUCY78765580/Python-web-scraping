@@ -28,7 +28,7 @@ class Spider():
         index=random.randint(0, 9)
         user_agent=user_agents[index]
         headers={'User_agent':user_agent,
-                 'cookie':'user_trace_token=20170328171202-9af479cf-1396-11e7-a59b-525400f775ce; LGUID=20170328171202-9af4825b-1396-11e7-a59b-525400f775ce; showExpriedIndex=1; showExpriedCompanyHome=1; showExpriedMyPublish=1; hasDeliver=0; index_location_city=%E5%85%A8%E5%9B%BD; JSESSIONID=9E6568091D64AB8515B8E70D354BC10D; Hm_lvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1490692322,1490704679,1490704945,1490746875; Hm_lpvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1490748769; _ga=GA1.2.407060577.1490692322; LGSID=20170329082118-a0c3b596-1415-11e7-a659-525400f775ce; LGRID=20170329085249-080c8c0b-141a-11e7-9574-5254005c3644; SEARCH_ID=9bc41c0071964f8c804e9f67a0a5c073'}
+                 'cookie':'your cookies'}
         html=requests.get(url,headers=headers)
         data=json.loads(html.text)
         return data
