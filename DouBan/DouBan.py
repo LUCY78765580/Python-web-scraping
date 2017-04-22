@@ -1,5 +1,5 @@
-# !usr/bin/env python
-#  -*- coding: utf-8 -*-
+#!usr/bin/env python
+# -*- coding: utf-8 -*-
 __date__='2017.04.06'
 __author__='WYY'
 
