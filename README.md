@@ -18,6 +18,6 @@ info社区：https://github.com/LUCY78765580/Python-web-scraping/blob/master/BoL
 待更</br>
 </br>
 **三、框架篇（Scrapy)**</br>
-scrapy爬图片（一般方法）：https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua</br>
-scrapy爬图片（ImagesPipeline)：https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua2</br>
+scrapy爬多级网页及图片（一般方法）：https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua</br>
+scrapy爬多级网页及图片（ImagesPipeline)：https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua2</br>
 其它待更</br>
