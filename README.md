@@ -15,9 +15,13 @@ info社区：https://github.com/LUCY78765580/Python-web-scraping/blob/master/BoL
 豆瓣：https://github.com/LUCY78765580/Python-web-scraping/tree/master/DouBan</br>
 </br>
 **二、进阶篇**</br>
-待更</br>
+抓取手机App数据：https://github.com/LUCY78765580/Python-web-scraping/tree/master/TouTiao</br>
+断点续爬：https://github.com/LUCY78765580/Python-web-scraping/tree/master/ZhiHu1
 </br>
 **三、框架篇（Scrapy)**</br>
 scrapy爬多级网页及图片（一般方法）：https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua</br>
 scrapy爬多级网页及图片（ImagesPipeline)：https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua2</br>
-其它待更</br>
+scrapy之存储篇：</br>
+  App抓取并存入MongoDB：https://github.com/LUCY78765580/Python-web-scraping/tree/master/TouTiao</br>
+  断点续爬并存入MySQL ：https://github.com/LUCY78765580/Python-web-scraping/tree/master/ZhiHu1 </br>
+其它待更
