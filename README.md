@@ -26,7 +26,7 @@
 - [scrapy爬多级网页及图片（一般方法)](https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua)</br>
 - [scrapy爬多级网页及图片（ImagesPipeline)](https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua2)</br>
 scrapy之存储：</br>
-    - [App抓取并存入MongoDB](https://github.com/LUCY78765580/Python-web-scraping/tree/master/TouTiao)</br>
-    - [断点续爬并存入MySQL](https://github.com/LUCY78765580/Python-web-scraping/tree/master/ZhiHu1)</br>
+- [App抓取并存入MongoDB](https://github.com/LUCY78765580/Python-web-scraping/tree/master/TouTiao)</br>
+- [断点续爬并存入MySQL](https://github.com/LUCY78765580/Python-web-scraping/tree/master/ZhiHu1)</br>
 
 其它待更
