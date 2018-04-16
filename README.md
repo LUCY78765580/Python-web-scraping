@@ -2,7 +2,7 @@
 </br>
 本仓库记录零基础学习python爬虫，所有探索与尝试</br>
 - [仓库地址](https://github.com/LUCY78765580/Python-web-scraping)</br>
-- 相应[博客地址](https://zhuanlan.zhihu.com/Waking-up)</br>
+- 相应博客地址：[简书](https://www.jianshu.com/u/e90f938c6279) or [知乎专栏](https://zhuanlan.zhihu.com/Waking-up)</br>
 </br>
 
 **一、入门篇**</br>
